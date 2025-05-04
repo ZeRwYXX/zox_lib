@@ -7,43 +7,52 @@
 
 ## 🚀 Coming Soon!
 
-A brand new library for FiveM (ESX/QBCore compatible) that will be continuously updated.  
-Its goal is to simplify and unify interface components across your server.
+A universal UI library for **FiveM**, designed to replace or complement existing systems like **RageUI**, **NativeUI**, or custom solutions — fully compatible with **ESX**, **QBCore**, and other frameworks.
 
-### 📦 Features
+### ⚙️ What’s Inside?
 
-- ✅ **Menu System** — Easily create consistent and modern menus across your scripts.
-- ✅ **Notification System** — Lightweight and clean notifications out-of-the-box.
-- ✅ **Help Notification System** — Show contextual tips or instructions directly on screen.
+- ✅ **Modular Menu System**  
+  Create consistent, customizable, and user-friendly menus effortlessly.
 
----
+- ✅ **Notification System**  
+  Simple, clean notifications for alerts, actions, or events.
 
-## 📅 Updates
-
-New features and improvements will be added regularly.  
-A dedicated channel will be available soon to track changes and updates.
+- ✅ **Help Notification System**  
+  Display contextual help messages anywhere on screen.
 
 ---
 
-## 🧠 Requirements
+## 🔄 Flexible Usage
 
-- FiveM server (ESX or QBCore)
-- RageUI (if required)
-
----
-
-## 📁 Installation
-
-> Guide d'installation à venir très bientôt.
+- Can **replace** existing menu systems entirely.  
+- Can also be used **alongside** your current UI frameworks with no conflict.  
+- **Framework-agnostic** — works with **ESX**, **QBCore**, or any custom setup.
 
 ---
 
-## 🧑‍💻 Contribute
+## 📦 Installation
 
-Pull requests and feedback are welcome!
+> Full installation and usage guide coming soon.
 
 ---
 
-## 📜 License
+## 🧪 Development Status
 
-MIT — feel free to use and modify as you wish.
+This library is in active development. Expect **frequent updates** and **feature additions**.  
+A dedicated Discord channel or update feed will be launched soon.
+
+---
+
+## 🤝 Contributions
+
+Suggestions, issues, and pull requests are welcome!
+
+---
+
+## 🪪 License
+
+MIT — free to use, modify, and distribute.
+
+---
+
+Stay tuned for the first release and documentation!
